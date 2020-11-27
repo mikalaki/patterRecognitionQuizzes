@@ -1,5 +1,5 @@
 # patterRecognitionQuizzes
-The quizzes of my Pattern Recognition, University Class. These quizzes are simple applications of basic machine learning R libraries. <br>
+The quizzes of my Pattern Recognition University Class. These quizzes are simple applications of basic machine learning R libraries. <br>
 ## Contents 
 ### Part 1: Classification
   - **quiz_1 : [Introduction to R](https://github.com/mikalaki/patterRecognitionQuizzes/blob/main/Classification/quiz1/q1_Introduction_to_R.R)** <br>
