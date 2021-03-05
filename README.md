@@ -8,6 +8,9 @@ The quizzes of my Pattern Recognition University Class. These quizzes are simple
   - **quiz_4 : [kNN and artificial Neural Networks](https://github.com/mikalaki/patterRecognitionQuizzes/blob/main/Classification/quiz4/q4_KNN_Artificial_neural_networks.R)** <br>
   - **quiz_5 : [kNN and support Vector Machines](https://github.com/mikalaki/patterRecognitionQuizzes/blob/main/Classification/quiz5/q5_Knn_support_vector_machines.R)** <br>
   ---
+  - **quiz_6 : [Data_preprocssing_PCA_ISOMAP](https://github.com/mikalaki/patterRecognitionQuizzes/blob/main/quiz6/q6_Data_preprocessing_PCA_ISOMAP.R)** <br>
+  ---
 ### Part 2: Clustering <br>
-  - 
-
+  - **quiz_7 : [k-Means_clustering_evaluation](https://github.com/mikalaki/patterRecognitionQuizzes/blob/main/Clustering/quiz7/q7_kNN_clusteringEvaluation.R)** <br>
+  - **quiz_8 : [Hierarchical_clustering_DBSCAN](https://github.com/mikalaki/patterRecognitionQuizzes/blob/main/Clustering/quiz8/q8_Hierarchical_clustering_DBSCAN.R)** <br>
+  - **quiz_9 : [Expectation_Maximization_Gaussian_Mixture_Models](https://github.com/mikalaki/patterRecognitionQuizzes/blob/main/Clustering/quiz9/q9_ExprectationMaximization_Gaussian_Mixture_models.R)** <br>
